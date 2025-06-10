@@ -1,2 +1,11 @@
-/*.gz
+/*.data.gz
+  Content-Type: application/octet-stream
+  Content-Encoding: gzip
+
+/*.js.gz
+  Content-Type: application/javascript
+  Content-Encoding: gzip
+
+/*.wasm.gz
+  Content-Type: application/wasm
   Content-Encoding: gzip
